@@ -6,6 +6,13 @@ from sklearn.linear_model import LinearRegression
 
 boston = datasets.load_boston()
 
+# print(boston.keys())
+# print(boston.feature_names)
+# print(boston.data[:5])
+# print(boston.target[:5])
+# print(boston.data.shape)
+# print(boston.target.shape)
+
 X = boston.data
 y = boston.target
 
@@ -16,7 +23,15 @@ model.fit(X_train, y_train)
 
 predictions = model.predict(X_test)
 
-plt.scatter(y_test, predictions)
-plt.xlabel("Actual prices")
-plt.ylabel("Predicted prices")
-plt.show()
+# plt.scatter(y_test, predictions)
+# plt.xlabel("Actual prices")
+# plt.ylabel("Predicted prices")
+# plt.show()
+
+# r squared, coefficient of determination
+print(model.score(X_test, y_test))
+
+# mean squared error
+print(metrics.mean_squared_error(y_test, predictions))
+
+
