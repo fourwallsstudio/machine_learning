@@ -23,10 +23,10 @@ model.fit(X_train, y_train)
 
 predictions = model.predict(X_test)
 
-# plt.scatter(y_test, predictions)
-# plt.xlabel("Actual prices")
-# plt.ylabel("Predicted prices")
-# plt.show()
+plt.scatter(y_test, predictions)
+plt.xlabel("Actual prices")
+plt.ylabel("Predicted prices")
+plt.show()
 
 # r squared, coefficient of determination
 print(model.score(X_test, y_test))
