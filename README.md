@@ -33,3 +33,7 @@ coursera - ml-005 - andrew ng
 mit - artificial intelligence: 
 
 https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
+
+caltech - machine learning mooc:
+
+https://work.caltech.edu/telecourse.html
