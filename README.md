@@ -20,15 +20,33 @@ neural networks (3Blue1Brown):
 
 https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
+k-nearest neighbour:
+
+https://www.youtube.com/watch?v=k_7gMp5wh5A
+
+deep learning intro series: 
+
+https://www.youtube.com/watch?v=TjhYqAQDwZI&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&index=18
+
+google developers - ml:
+
+https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
+
 ### articles
 
 twitter - auto-cropping: 
 
 https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/Smart-Auto-Cropping-of-Images.html
 
+chris olah - lstms:
+
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 ### courses
 
-coursera - ml-005 - andrew ng
+coursera - ml-005 - andrew ng:
+
+https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 
 mit - artificial intelligence: 
 
